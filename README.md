@@ -172,7 +172,7 @@ It's main features are:
   ```
 
 # Attribution
-- ball ball png file is taken from
+- bat ball png file is taken from
  <a href="https://www.flaticon.com/free-icons/cricket-bat" title="cricket bat icons">Cricket bat icons created by Design Circle - Flaticon</a>
 
 # Files which contain firebase api key & related info is not put on github
